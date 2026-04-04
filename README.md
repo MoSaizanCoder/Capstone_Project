@@ -6,17 +6,7 @@ This repository contains the three major Capstone Projects completed during my D
 
 ## 📂 Project Index
 
-### 1. 🎥 Amazon Prime Video Analysis (EDA)
-* **File Name:** `AlmaBetter_Verified_Capstone_Project_Amazon_Prime_EDA.ipynb`
-* **Focus:** Exploratory Data Analysis & Business Intelligence.
-* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Plotly.
-* **Description:**
-  A comprehensive analysis of **9,500+ Amazon Prime titles**. The project uncovers trends in content duration, regional preferences, and the ratio of Movies vs. TV Shows. It includes interactive visualizations to help stakeholders understand content strategy.
-* **🔗 Live Preview:** [View on Google Colab](https://drive.google.com/file/d/1ATLQh4dHnQg4QDIGln7CidP8BETj7zeI/view?usp=drive_link)
-
----
-
-### 2. 🍕 Zomato: Product Dissection & Database Design
+### 1. 🍕 Zomato: Product Dissection & Database Design
 * **File Name:** `AlmaBetter_Verified_Capstone_Project_Product_Dissection.pdf`
 * **Focus:** Database Normalization & SQL Architecture.
 * **Tech Stack:** SQL, ER Diagrams, 3NF (Third Normal Form).
@@ -26,7 +16,7 @@ This repository contains the three major Capstone Projects completed during my D
 
 ---
 
-### 3. ⚡ CodeStorm: Introduction to Computing
+### 2. ⚡ CodeStorm: Introduction to Computing
 * **File Name:** `AlmaBetter_Verified_Capstone_Project_Introduction_to_Computing.ipynb`
 * **Focus:** Computational Logic & Algorithms.
 * **Tech Stack:** Python, Data Structures & Algorithms.
@@ -37,9 +27,7 @@ This repository contains the three major Capstone Projects completed during my D
 ---
 
 ## 🛠️ Combined Technical Skills
-Across these three capstones, the following skills were applied and verified:
-* **Data Manipulation:** Cleaning and processing large datasets with Pandas.
-* **Data Visualization:** creating actionable charts with Seaborn and Plotly.
+Across these two capstones, the following skills were applied and verified:
 * **Database Management:** Architecting normalized schemas (3NF) for real-world apps.
 * **Problem Solving:** optimizing Python code for performance.
 
